@@ -1,6 +1,8 @@
 ## TSCL
 When an Extra Rejection Class Meets Out-of-Distribution Detection in Long-tailed Image Classification
 
+## Overview Architecture
+![image](https://github.com/shuaiNJU/TSCL/assets/48854550/d5992f37-fdd1-48bf-96c6-5492e5f06640)
 
 ## Training
 
