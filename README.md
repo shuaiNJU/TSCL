@@ -43,3 +43,18 @@ python test.py --gpu 0 --ds cifar100 --dout $dout \
     --ckpt_path <where_you_save_the_ckpt>
 done
 ```
+## Acknowledgement
+
+Part of our codes are adapted from these repos:
+
+PASCL- https://github.com/amazon-science/long-tailed-ood-detection
+
+## Citation
+@article{feng2024extra,
+  title={When an extra rejection class meets out-of-distribution detection in long-tailed image classification},
+  author={Feng, Shuai and Wang, Chongjun},
+  journal={Neural Networks},
+  pages={106485},
+  year={2024},
+  publisher={Elsevier}
+}
